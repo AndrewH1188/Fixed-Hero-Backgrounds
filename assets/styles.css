@@ -1,0 +1,9 @@
+.heroImage {
+  background-image: url(/assets/images/war-graves.webp);
+  background-attachment: fixed;
+  height: 100vh;
+}
+
+.container--CopyContainer {
+  margin: 30px 0;
+}/*# sourceMappingURL=styles.css.map */

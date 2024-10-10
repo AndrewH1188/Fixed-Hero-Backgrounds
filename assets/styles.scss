@@ -1,0 +1,13 @@
+.heroImage { 
+    background-image: url(/assets/images/war-graves.webp);
+    background-attachment: fixed;
+    height: 100vh;
+    //background-repeat: no-repeat;
+    //background-position: cover;
+}
+
+.container{
+    &--CopyContainer {
+        margin: 30px 0;
+    }
+}
